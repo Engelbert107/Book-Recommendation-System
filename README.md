@@ -23,8 +23,3 @@ We used the [Goodreads-books](https://www.kaggle.com/datasets/jealousleopard/goo
 - Access to the [app file](https://github.com/Engelbert107/Book-Recommendation-System/blob/main/src/app.py)
 - Access to different [images here](https://github.com/Engelbert107/Book-Recommendation-System/tree/main/images)
 
-## Access to the files through the following links:
-- Access to the [notebook file](https://github.com/Engelbert107/Book-Recommendation-System/blob/main/notebook/BookRecommenderSystem.ipynb)
-- Access to the [app file](https://github.com/Engelbert107/Book-Recommendation-System/blob/main/src/app.py)
-- Access to different [images here](https://github.com/Engelbert107/Book-Recommendation-System/tree/main/images)
-
